@@ -1,0 +1,1 @@
+This code Reads 12bit ADC value and prints on to the UART port using STM32F401 
